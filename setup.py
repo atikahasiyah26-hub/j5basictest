@@ -2,14 +2,14 @@ from setuptools import setup
 
 setup(
     name='j5basic',
-    version='1.5',
+    version='1.6',
     packages=['j5basic'],
     license='Apache License, Version 2.0',
-    description='A collection of utility methods and classes.',
+    description='Utility Python package edited by Atikah for Git practice.',
     long_description=open('README.md').read(),
     url='http://www.sjsoft.com/',
-    author='St James Software',
-    author_email='support@sjsoft.com',
+    author='Atikah Asiyah',
+    author_email='atikahasiyah26@gmail.com',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: Apache Software License',
